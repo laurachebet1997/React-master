@@ -1,0 +1,14 @@
+.main {
+    min-height: 100vh;
+    background-color: grey;
+    display: grid;
+    place-content: center;
+}
+
+.main a  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: underline;
+  }
